@@ -1,0 +1,169 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body{
+    background-color:lightgray;
+}
+.divsup{
+    width: 95%;
+    display: flex;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+}
+.divlogo{
+    width: 20%;
+    text-align: center;
+    height: 150px;
+}
+
+.logo{
+    width: 200px;
+    padding-top: 0px;
+    margin-left: -40px;
+    border-radius: 25px;
+}
+.logo-2{
+    width: 150px;
+    padding-top: 0px;
+    margin-left: -40px;
+    border-radius: 25px;
+}
+.lineaazul{
+    width: 80%;
+    background-color:#40afdd;
+    text-align: center;
+    height: 60px;
+    display: flex;
+    border: solid 1px darkslategray;
+}
+.divlema{
+    width: 70%;
+}
+.lema{
+    text-align: center;
+    font-size: 40px;
+}
+.divcerrarsesion{
+    width: 30%;
+    text-align: end;
+    display: flex;
+}
+.nombrecerrar{
+    font-size: 20px;
+    margin-left: auto;
+    padding-top: 15px;
+    margin-right: 10px;
+}
+.cerrarsesion{
+    margin-top: 10px;
+    margin-left: auto;
+    width: 50px;
+    height: 40px;
+    padding-right: 5px;
+}
+.contenido{
+        width: 95%;
+        display: flex;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        height: fit-content;
+        margin-bottom: 100px;
+}
+.menu{
+    background-color: lightslategray;
+    width: 20%;
+    height: auto;
+    border: solid 1px darkslategray;
+}
+.opciones{
+    text-decoration: none;
+    color: #ffffff;
+}
+.perfil{
+    text-align: center;
+    border-bottom: solid 1px #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.datos{
+    width: 100%;
+    height: auto;
+    background-color: #40afdd;
+    border: solid 1px darkslategray;
+    border-left: none;
+    padding-left: 50px;
+}
+#numeros{
+    width: 200px;
+}
+.anchoform{
+    padding-right: 50px;
+}
+.posboton{
+   text-align: center;
+   padding-bottom: 20px;
+}
+.nameempresa{
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+.footer{
+    width: 100%;
+    background-color: #40afdd;
+    display: flex;
+}
+.divfooter{
+    width: 50%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.lema2{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-right: 170px;
+}
+.tablas{
+    background-color: #ffffff;
+}
+.datos2{
+    width: 100%;
+    height: auto;
+    background-color: #40afdd;
+    border: solid 1px darkslategray;
+    padding-left: 50px;
+}
+.divrol{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.tamdivrol{
+    width: 20%;
+    text-align: center;
+
+}
+.imgrol{
+    width: 30%;
+}
+
+.nombresrol{
+    text-align: center;
+    padding-bottom: 40px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.nombresrol :hover{
+    color: black;
+    text-decoration: overline;
+}
+.iniciodesesion{
+    width: 60%;
+    margin: auto;
+}
